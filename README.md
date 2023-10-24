@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @simonmuthusi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About 
 
-<!---
-simonmuthusi/simonmuthusi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Simon is a thought technology leader in building and growing digital businesses, products and teams. He is an expert in building all things digital i.e., software engineering excellence, enterprise architecture, product development, technical leadership, data analytics and cloud transformation. He has helped multiple clients set the right digital footprint and build end-to-end digital products.
+
+Simon holds an MSc. Computer Science from the University of East London, Bsc. Computer Science and Micromaster in Digital Product Management. Additionally, he’s certified in multiple certifications in architecture, cloud, project management, big data and technical skills.
+
+Simon has a wealth of experience working with fintechs, tech startups, payments, financial services, consumer, telco, research, industrial automation, insurance and digital agencies. His agility and open mindset have allowed penetration and building of expertise in any new area.
+
+# Learn more
+Get to learn more on [personal blog](https://joinsimon.life)
