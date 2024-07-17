@@ -7,4 +7,4 @@ Simon holds an MSc. Computer Science from the University of East London, Bsc. Co
 Simon has a wealth of experience working with fintechs, tech startups, payments, financial services, consumer, telco, research, industrial automation, insurance and digital agencies. His agility and open mindset have allowed penetration and building of expertise in any new area.
 
 # Learn more
-Get to learn more on [personal blog](https://joinsimon.life)
+Get to learn more on [personal blog](https://simon.co.ke)
